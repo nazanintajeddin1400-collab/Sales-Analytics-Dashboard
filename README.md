@@ -4,7 +4,7 @@
 
 ## 📊 Dashboard Preview
 
-![Sales Analytics Dashboard](IMG_2026111123474.jpg)
+![Sales Analytics Dashboard](IMG_۲۰۲۶۱۰۱۶_۲۳۴۷۳۴.jpg)
 
 ## 📌 شاخص‌ها و تحلیل‌های داشبورد
 
